@@ -1,12 +1,12 @@
-## Hi there 👋
+# Chroma Quest
 
-<!--
+## Authors: Code Fellows 301 Class 108
 
-**Here are some ideas to get you started:**
+## File Structure
+- src
+    - components (all componenets other than main.jsx and app.jsx)
+    - assets (all images and other media files)
+    - styles (all css files for each jsx file)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+
